@@ -1,39 +1,6 @@
 {
-  "poolName": "myPool",
-  "poolOwner": [
-    {
-      "ownerName": "poolOwner",
-      "ownerWitness": "local"
-    }
-  ],
-  "poolRewards": "poolOwner",
-  "poolPledge": "1000000000",
-  "poolCost": "340000000",
-  "poolMargin": "0.005",
-  "poolRelays": [
-    {
-      "relayType": "ip",
-      "relayEntry": "221.146.94.250",
-      "relayPort": "3001"
-    },
-    {
-      "relayType": "ip",
-      "relayEntry": "221.146.94.250",
-      "relayPort": "3002"
-    }
-  ],
-  "poolMetaName": "Nice One Sonny POOL",
-  "poolMetaDescription": "SONNY POOL",
-  "poolMetaTicker": "SONNY",
-  "poolMetaHomepage": "https://hyungryun.github.io",
-  "poolMetaUrl": "https://hyungryun.github.io/sonny-testnet.metadata.json",
-  "poolExtendedMetaUrl": "https://hyungryun.github.io/sonny-testnet.extended.json",
-  "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---",
-  "poolID": "50f5c312cbd661731e9b56c81ed147c4df6775e087a0eaa4eec9c0b6",
-  "poolIDbech": "pool12r6uxykt6eshx85m2mypa528cn0kwa0qs7sw4f8we8qtvt8uvn0",
-  "poolMetaHash": "88afac6c8702153c09a6c0219f5813d407dfb7df3be3b41964ee6cd16e36ce09",
-  "regCertCreated": "Tue, 16 Mar 2021 20:49:32 +0900",
-  "regCertFile": "myPool.pool.cert",
-  "regEpoch": "252",
-  "regSubmitted": "Mon, 08 Mar 2021 20:25:21 +0900"
+  "name": "Nice One Sonny POOL",
+  "description": "SONNY POOL",
+  "ticker": "SONNY",
+  "homepage": "https://hyungryun.github.io"
 }
